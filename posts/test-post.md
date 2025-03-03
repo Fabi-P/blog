@@ -1,6 +1,6 @@
 ---
 title: "My First Blog Post"
-date: 2025-02-25
+pubDate: 2025-02-25
 description: "This is a test blog post to check if my blog setup works."
 image: 
     url: "https://via.placeholder.com/150"
