@@ -1,8 +1,11 @@
 ---
 title: "My First Blog Post"
-date: "2025-02-25"
+date: 2025-02-25
 description: "This is a test blog post to check if my blog setup works."
-image: "https://via.placeholder.com/150"
+image: 
+    url: "https://via.placeholder.com/150"
+    alt: "a placeholder image"
+tags: ["learning in public"]
 ---
 
 # My First Blog Post  
